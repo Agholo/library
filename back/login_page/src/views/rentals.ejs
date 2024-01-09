@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rentals</title>
+    <link rel="stylesheet" href="rentals.css">
+    <script src="rental.js"></script>
+</head>
+<body>
+    <header>
+        <div id="header_conteiner">
+            <img src="https://picsartacademy.am/assets/favicon/apple-touch-icon.png" alt="picsart academy Library" id="logo">
+            <div id="pages">
+                <div id="library">Library</div>
+                <a href="https://picsartacademy.am/" id="about"><div>About us</div></a>
+                <div id="logout">Log Out</div>
+            </div>
+        </div>
+    </header>
+    <div class="cont">
+        <% if(rentals) { %>
+            <% rentals.forEach((book) => { %>
+                <div class="smth" bookData="<%= JSON.stringify(book) %>"> <!-- book = {bookData, bookTime}-->
+                    <img src="<%= book.dataBook.cover_url %>" alt="<%= book.dataBook.title %> Image">
+                    <div class="info">
+                        <h2><%= book.dataBook.title %></h2>
+                        <!-- <h2><%= book.dataBook.title %> by <%= book.dataBook.authors %></h2> -->
+                        <!-- <h4>Authors: <%= book.dataBook.authors %></h4> -->
+                        <p>Published Year: <%= book.dataBook.published_year %></p>
+                    </div>
+                    <button type="button" id="cencal">X</button>
+                </div>
+            <% }); %>
+        <% } else { %>
+            <div class="c">
+                <h1 class="notRentals">You don't have any rented book!</h1>
+            </div>
+        <% } %>
+    </div>
+</body>
+</html>

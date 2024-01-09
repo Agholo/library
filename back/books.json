@@ -1,0 +1,2246 @@
+[
+    {
+        "title": "Java The Complete Reference, Eleventh Edition",
+        "authors": ["Herbert Schildt"],
+        "isbn": "978126044232",
+        "published_year": 2019,
+        "category": [
+          "Programming Language",
+          "Java",
+          "OOAD",
+          "Object Oriented Programming"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A6",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Oracle",
+          "language": "English",
+          "page_count": 1208
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Essential Math for Data Science",
+        "authors": ["Thomas Nield"],
+        "isbn": "9871098102937",
+        "published_year": 2022,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 323
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "C++ Software Design",
+        "authors": ["Klaus Iglberger"],
+        "isbn": "9871098113162",
+        "published_year": 2022,
+        "category": ["Design Principles", "Patterns", "C++", "Software Design"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 409
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Software Architecture: The Hard Parts",
+        "authors": [
+          "Neal Ford",
+          "Marc Richards",
+          "Pramod Sadalage",
+          "Zhamak Deghani"
+        ],
+        "isbn": "9871492086895",
+        "published_year": 2021,
+        "category": [
+          "Software Architecture",
+          "Data Ownership",
+          "Analyses for Distributed Architectures"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 425
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Modern C++ Design",
+        "authors": ["Andrei Alexandrescu", "Scott Meyers", "John Vlissides"],
+        "isbn": "0201704315",
+        "published_year": 2001,
+        "category": [
+          "C++",
+          "Design Patterns",
+          "Functors",
+          "Memory Management",
+          "RAII"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Addison-Wesley",
+          "language": "English",
+          "page_count": 313
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Decode to Encode",
+        "authors": ["Avinash Ramachandran"],
+        "isbn": "9780998045016",
+        "published_year": 2018,
+        "category": ["Video Compression", "GOPs", "Video Codec Architecture"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Made in USA",
+          "language": "English",
+          "page_count": 181
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "System Design Interview",
+        "authors": ["Alex Xu"],
+        "isbn": "9798664653403",
+        "published_year": 2020,
+        "category": [
+          "Database",
+          "Design YouTube",
+          "Notification System",
+          "Web Server",
+          "Design Google Drive"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Byte Code LLC",
+          "language": "English",
+          "page_count": 313
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "A Digital Signal Preocessing Primer",
+        "authors": ["Ken Steiglitz"],
+        "isbn": "9780486845838",
+        "published_year": 2020,
+        "category": [
+          "Digital Audio",
+          "Computer Music",
+          "Discrete Fourier Transform"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Dover Publications",
+          "language": "English",
+          "page_count": 309
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "The Fabric of Reality",
+        "authors": ["Daivd Deutsch"],
+        "isbn": "0713990619",
+        "published_year": 1997,
+        "category": ["Computer Science", "Quantum Computers", "Virtual Reality"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Penguin Books",
+          "language": "English",
+          "page_count": 371
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Fundamentals of Software Architecture",
+        "authors": ["Marc Richards", "Neal Ford"],
+        "isbn": "9781492043454",
+        "published_year": 2001,
+        "category": [
+          "Software Architectur",
+          "Event-Driven Architecture",
+          "Architecture Styles",
+          "Microservices",
+          "Orchestration-Driven"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 383
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Raspberry Pi",
+        "authors": ["Simon Monk"],
+        "isbn": "9785990846265",
+        "published_year": 2014,
+        "category": ["Raspberry Pi", "GPIO connector", "System Programming"],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "Russian",
+          "page_count": 410
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "The Innovators",
+        "authors": ["Walter Isaacson"],
+        "isbn": "9781476708690",
+        "published_year": 2014,
+        "category": [
+          "Ada Lovelace",
+          "The Computer",
+          "Transistor",
+          "Microchip",
+          "Programming",
+          "Hackers"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Simon & Schuster Paperbacks",
+          "language": "English",
+          "page_count": 410
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Raspberry Pi 4",
+        "authors": ["Gareth Halfacree"],
+        "isbn": "9785970609026",
+        "published_year": 2021,
+        "category": [
+          "System Programming",
+          "Raspberry Pi",
+          "Python",
+          "GPIO connector"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Simon & Schuster Paperbacks",
+          "language": "English",
+          "page_count": 410
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "The Game Console 2.0",
+        "authors": ["Evan Amos"],
+        "isbn": "9781718500600",
+        "published_year": 2021,
+        "category": ["Microsoft XBOX", "Sony Playstation", "Nintendo"],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "William Pollock",
+          "language": "English",
+          "page_count": 312
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Multithreaded JavaScript",
+        "authors": ["Thomas Hunter", "Bryan English"],
+        "isbn": "9781098104436",
+        "published_year": 2021,
+        "category": [
+          "Threads",
+          "Concurrency",
+          "Parallelism",
+          "Browsers",
+          "WebAssembly",
+          "Memory Management",
+          "JavaScript",
+          "Node.js"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 187
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Distributed Systems with Node.js",
+        "authors": ["Thomas Hunter"],
+        "isbn": "9781492077299",
+        "published_year": 2020,
+        "category": [
+          "Protocols",
+          "JavaScript",
+          "Node.js",
+          "Deployments",
+          "Kubernetes",
+          "Security",
+          "Model View Controller"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 355
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "iOS Programming",
+        "authors": ["Christian Keur", "Aaron Hillegass"],
+        "isbn": "9780134682334",
+        "published_year": 2016,
+        "category": [
+          "iOS Applications",
+          "Swift",
+          "Web Services",
+          "Model View Controller"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "Big Nerd Ranch",
+          "language": "English",
+          "page_count": 449
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "The Startup Owner's Manual",
+        "authors": ["Steve Blank", "Bob Dorf"],
+        "isbn": "9780984999309",
+        "published_year": 2016,
+        "category": ["Customer Discovery", "Customer Validation", "Startup"],
+        "availability": true,
+        "location": {
+          "shelf": "A2",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "K&S Ranch",
+          "language": "English",
+          "page_count": 557
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "How not to be wrong",
+        "authors": ["Jordan Ellenberg"],
+        "isbn": "978-1-59420-522-4",
+        "published_year": 2014,
+        "category": ["Non-fiction", "Mathematics", "Probability", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "The penguin press",
+          "language": "English",
+          "page_count": 468
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Dune",
+        "authors": ["Frank Herbert"],
+        "isbn": "9780441172719",
+        "published_year": 2010,
+        "category": ["Fiction", "Political intrigue", "Ecology"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Ace",
+          "language": "English",
+          "page_count": 884
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "God Emperor of Dune",
+        "authors": ["Frank Herbert"],
+        "isbn": "9780593098257",
+        "published_year": 2019,
+        "category": ["Fiction", "Philosophy"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Ace",
+          "language": "English",
+          "page_count": 587
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Heretics of Dune",
+        "authors": ["Frank Herbert"],
+        "isbn": "9780593098264",
+        "published_year": 2019,
+        "category": [
+          "Science Fiction",
+          "Speculative Fiction",
+          "Religion and Philosophy",
+          "Political Intrigue and Power Dynamics"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Ace",
+          "language": "English",
+          "page_count": 669
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Children of Dune",
+        "authors": ["Frank Herbert"],
+        "isbn": "9780593098240",
+        "published_year": 2019,
+        "category": [
+          "Science Fiction",
+          "Speculative Fiction",
+          "Ecology",
+          "Psychology"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Ace",
+          "language": "English",
+          "page_count": 609
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Numbers Don't Lie",
+        "authors": ["Vaclav Smil"],
+        "isbn": "978014313224",
+        "published_year": 2021,
+        "category": [
+          "Data Analysis and Interpretation",
+          "Technology and Innovation",
+          "Energy and Environment",
+          "Socioeconomic Trends and Policy Implications"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Penguin books",
+          "language": "English",
+          "page_count": 350
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "1984",
+        "authors": ["George Orwell"],
+        "isbn": "978-5-04-120578-2",
+        "published_year": 2022,
+        "category": [
+          "Fiction",
+          "Political Allegory and Social Critique",
+          "Psychological and Societal Manipulation"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Eksmo",
+          "language": "Russian",
+          "page_count": 303
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "A space odyssey",
+        "authors": ["Artur C. Clarke"],
+        "isbn": "978-1-85723-664-4",
+        "published_year": 1998,
+        "category": [
+          "Science Fiction / Space Exploration",
+          "Artificial Intelligence and Technology",
+          "Existential and Philosophical Themes",
+          "Futuristic Adventure and Discovery"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Orbit",
+          "language": "English",
+          "page_count": 251
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Chapterhouse Dune",
+        "authors": ["Frank Herbert"],
+        "isbn": "978-0-441-00541-7",
+        "published_year": 2022,
+        "category": [
+          "Science Fiction / Speculative Fiction",
+          "Political Intrigue and Power Struggles",
+          "Philosophical Exploration and Societal Evolution",
+          "Ecology"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Ace",
+          "language": "English",
+          "page_count": 609
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Dune Messiah",
+        "authors": ["Frank Herbert"],
+        "isbn": "9780593098233",
+        "published_year": 2019,
+        "category": [
+          "Science Fiction / Speculative Fiction",
+          "Religious and Societal Transformations",
+          "Psychological Dilemmas and Prophecy",
+          "Political Intrigue and Power Dynamics"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Ace",
+          "language": "English",
+          "page_count": 336
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Hitler and Churchill",
+        "authors": ["Andrew Roberts"],
+        "isbn": "978-0-7538-1778-0",
+        "published_year": 2004,
+        "category": [
+          "Programming",
+          "JavaScript",
+          "Asynchronous Programming",
+          "Performance"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "O'Reilly Media",
+          "language": "English",
+          "page_count": 300
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Հանրահաշիվ 8֊րդ դասարանի դասագիրք",
+        "authors": [
+          "Ս․ Մ․ Նիկոլսկի",
+          "Մ․ Կ․ Պոտապով",
+          "Ն․ Ն․ Ռեշետնիկով",
+          "Ա․ Վ․ Շեվկին"
+        ],
+        "isbn": "978126044232",
+        "published_year": 2012,
+        "category": ["Mathematics", "School book", "Arithmetic ", "Education"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Antares",
+          "language": "Armenian",
+          "page_count": 280
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Երկրաչափություն 8֊րդ դասարանի դասագիրք",
+        "authors": [
+          "Ս․ Մ․ Նիկոլսկի",
+          "Մ․ Կ․ Պոտապով",
+          "Ն․ Ն․ Ռեշետնիկով",
+          "Ա․ Վ․ Շեվկին"
+        ],
+        "isbn": "978126044232",
+        "published_year": 2012,
+        "category": ["Mathematics", "School book", "Geometry ", "Educational"],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Publisher Not Available",
+          "language": "Language Not Available",
+          "page_count": null
+        },
+        "cover_url": "https://example.com/thumbnails/you-dont-know-js-yet.jpg",
+        "online_version_url": "https://example.com/ebooks/you-dont-know-js-yet.pdf"
+      },
+      {
+        "title": "Learning React",
+        "authors": ["Alex Banks", "Eve Porcello"],
+        "isbn": "978-1-492-05172-5",
+        "published_year": null,
+        "category": [
+          "Programming",
+          "React",
+          "Web Development",
+          "Software Development"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Publisher Not Available",
+          "language": "Language Not Available",
+          "page_count": null
+        },
+        "cover_url": "https://example.com/thumbnails/learning-react.jpg",
+        "online_version_url": "https://example.com/ebooks/learning-react.pdf"
+      },
+      {
+        "title": "You Don't Know JS: Types and Grammar",
+        "authors": ["Kyle Simpson"],
+        "isbn": "9781491904190",
+        "published_year": null,
+        "category": [
+          "Programming",
+          "JavaScript",
+          "Web Development",
+          "Software Development"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Publisher Not Available",
+          "language": "Language Not Available",
+          "page_count": null
+        },
+        "cover_url": "https://example.com/thumbnails/you-dont-know-js-types-and-grammar.jpg",
+        "online_version_url": "https://example.com/ebooks/you-dont-know-js-types-and-grammar.pdf"
+      },
+      {
+        "title": "You Don't Know JS: This & Object Prototypes",
+        "authors": ["Kyle Simpson"],
+        "isbn": "9781491904152",
+        "published_year": null,
+        "category": [
+          "Programming",
+          "JavaScript",
+          "Web Development",
+          "Software Development"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Publisher Not Available",
+          "language": "Language Not Available",
+          "page_count": null
+        },
+        "cover_url": "https://example.com/thumbnails/arhitektory-intellekta.jpg",
+        "online_version_url": "https://example.com/ebooks/arhitektory-intellekta.pdf"
+      },
+      {
+        "title": "A Briefer History of Time",
+        "authors": ["Stephen Hawking"],
+        "isbn": "9780593056974",
+        "published_year": 2008,
+        "category": ["Science", "Physics", "Cosmology", "Astrophysics"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Bantam Press",
+          "language": "English",
+          "page_count": 176
+        },
+        "cover_url": "https://example.com/thumbnails/a-briefer-history-of-time.jpg",
+        "online_version_url": "https://example.com/ebooks/a-briefer-history-of-time.pdf"
+      },
+      {
+        "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
+        "authors": ["Ryan North"],
+        "isbn": "9780735220140",
+        "published_year": 2018,
+        "category": ["Non-fiction", "Science", "Technology", "Humor"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Riverhead Books",
+          "language": "English",
+          "page_count": 464
+        },
+        "cover_url": "https://example.com/thumbnails/how-to-invent-everything.jpg",
+        "online_version_url": "https://example.com/ebooks/how-to-invent-everything.pdf"
+      },
+      {
+        "title": "How the World Really Works",
+        "authors": ["Vaclav Smil"],
+        "isbn": "9780593297063",
+        "published_year": 2022,
+        "category": ["Non-fiction", "Science", "Technology", "Sociology"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Viking",
+          "language": "English",
+          "page_count": 336
+        },
+        "cover_url": "https://example.com/thumbnails/how-the-world-really-works.jpg",
+        "online_version_url": "https://example.com/ebooks/how-the-world-really-works.pdf"
+      },
+      {
+        "title": "Ատոմային սովորություններ",
+        "authors": ["James Clear"],
+        "isbn": "9789939924366",
+        "published_year": 2021,
+        "category": ["Science", "Physics", "Education"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Edit Print",
+          "language": "Armenian",
+          "page_count": 248
+        },
+        "cover_url": "https://example.com/thumbnails/atomic-teachings.jpg",
+        "online_version_url": "https://example.com/ebooks/atomic-teachings.pdf"
+      },
+      {
+        "title": "Черные дыры. Лекции BBC",
+        "authors": ["Stephen Hawking"],
+        "isbn": "9785179827542",
+        "published_year": 2019,
+        "category": ["Popular Science", "Physics", "Cosmology"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "АСТ",
+          "language": "Russian",
+          "page_count": 64
+        },
+        "cover_url": "https://example.com/thumbnails/black-holes-bbc-lectures.jpg",
+        "online_version_url": "https://example.com/ebooks/black-holes-bbc-lectures.pdf"
+      },
+      {
+        "title": "Ամեն ոք ձեռներեց է",
+        "authors": ["Gregory Diehl"],
+        "isbn": "9789939753919",
+        "published_year": 2021,
+        "category": ["Novel", "Romance", "Friendship"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Edit Print",
+          "language": "Armenian",
+          "page_count": 304
+        },
+        "cover_url": "",
+        "online_version_url": ""
+      },
+      {
+        "title": "Black Holes and Baby Universes",
+        "authors": ["Stephen Hawking"],
+        "isbn": "9780553406634",
+        "published_year": 1994,
+        "category": ["Science", "Cosmology", "Physics", "Astrophysics"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Bantam Books",
+          "language": "English",
+          "page_count": 176
+        },
+        "cover_url": "https://example.com/thumbnails/black-holes-and-baby-universes.jpg",
+        "online_version_url": "https://example.com/ebooks/black-holes-and-baby-universes.pdf"
+      },
+      {
+        "title": "Как работает Google",
+        "authors": ["Eric Schmidt, Jonathan Rosenberg"],
+        "isbn": "9785699981359",
+        "published_year": 2017,
+        "category": ["Non-fiction", "Technology", "Business", "Computers"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Эксмо",
+          "language": "Russian",
+          "page_count": 401
+        },
+        "cover_url": "https://example.com/thumbnails/kak-rabotaet-google.jpg",
+        "online_version_url": "https://example.com/ebooks/kak-rabotaet-google.pdf"
+      },
+      {
+        "title": "The Rick and Morty Adventures",
+        "authors": ["Syenduk D."],
+        "isbn": "9785913395863",
+        "published_year": 2017,
+        "category": ["Science Fiction", "Comedy", "Adventure"],
+        "availability": true,
+        "location": {
+          "shelf": "G",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Komilfo",
+          "language": "Russian",
+          "page_count": 392
+        },
+        "cover_url": "https://example.com/thumbnails/rick-and-morty-adventures.jpg",
+        "online_version_url": "https://example.com/ebooks/rick-and-morty-adventures.pdf"
+      },
+      {
+        "title": "Expert C++ - Second Edition",
+        "authors": [
+          "Marcelo Guerra Hahn",
+          "Vardan Grigoryan",
+          "John Asatryan",
+          "Araks Tigranyan",
+          "Shunguang Wu"
+        ],
+        "isbn": "9781804617830",
+        "published_year": 2023,
+        "category": [
+          "C++",
+          "Advanced Programming",
+          "Template Metaprogramming",
+          "Memory Management",
+          "STL Containers",
+          "Advanced Data Structures",
+          "Functional Programming",
+          "Concurrency",
+          "Multithreading",
+          "Design Patterns",
+          "Networking",
+          "Security",
+          "Large-Scale Application Design"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Packt",
+          "language": "English",
+          "page_count": 604
+        },
+        "cover_url": "https://example.com/thumbnails/expert-c++-second-edition.jpg",
+        "online_version_url": "https://example.com/ebooks/expert-c++-second-edition.pdf"
+      },
+      {
+        "title": "Node.js Design Patterns Third Edition",
+        "authors": ["Mario Casciaro", "Luciano Mammino"],
+        "isbn": "9781839214110",
+        "published_year": 2020,
+        "category": [
+          "Node.js",
+          "JavaScript",
+          "Design Patterns",
+          "Asynchronous Programming"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Packt Publishing Ltd",
+          "language": "English",
+          "page_count": 664
+        },
+        "cover_url": "https://example.com/thumbnails/nodejs-design-patterns.jpg",
+        "online_version_url": "https://example.com/ebooks/nodejs-design-patterns.pdf"
+      },
+      {
+        "title": "Inside the C++ Object Model",
+        "authors": ["Stanley B. Lippman"],
+        "isbn": "0201834545",
+        "published_year": 1996,
+        "category": [
+          "C++",
+          "Object Model",
+          "Constructors and Destructors",
+          "Data and Function Semantics",
+          "Runtime Semantics",
+          "Advanced C++ Features",
+          "Memory Management",
+          "Software Development Practices",
+          "Efficiency and Optimization"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Addison-Wesley Professional",
+          "language": "English",
+          "page_count": 304
+        },
+        "cover_url": "https://example.com/thumbnails/inside-cpp-object-model.jpg",
+        "online_version_url": "https://example.com/ebooks/inside-cpp-object-model.pdf"
+      },
+      {
+        "title": "Effective STL",
+        "authors": ["Scott Meyers"],
+        "isbn": "0201749629",
+        "published_year": 2001,
+        "category": [
+          "C++",
+          "STL",
+          "Programming",
+          "Computer Science",
+          "Software Development"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Addison-Wesley Professional",
+          "language": "English",
+    
+          "page_count": 288
+        },
+        "cover_url": "https://example.com/thumbnails/effective-stl.jpg",
+        "online_version_url": "https://example.com/ebooks/effective-stl.pdf"
+      },
+      {
+        "title": "Thinking Low-Level, Writing High-Level",
+        "authors": ["Randall Hyde"],
+        "isbn": "9781718500389",
+        "published_year": 2020,
+        "category": [
+          "Low-Level Programming",
+          "High-Level Programming",
+          "Programming Languages",
+          "Computer Science"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "No Starch Press",
+          "language": "English",
+    
+          "page_count": 656
+        },
+        "cover_url": "https://example.com/thumbnails/thinking-low-level.jpg",
+        "online_version_url": "https://example.com/ebooks/thinking-low-level.pdf"
+      },
+      {
+        "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "authors": ["Eric Ries"],
+        "isbn": "9780307887894",
+        "published_year": 2011,
+        "category": ["Business", "Entrepreneurship", "Innovation"],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Crown Business",
+          "language": "English",
+          "page_count": 336
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
+        "online_version_url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898"
+      },
+      {
+        "title": "Educated: A Memoir",
+        "authors": ["Tara Westover"],
+        "isbn": "9780399590504",
+        "published_year": 2018,
+        "category": ["Memoir", "Education", "Self-Development"],
+        "availability": true,
+        "location": {
+          "shelf": "D4",
+          "row": 6
+        },
+        "additional_info": {
+          "publisher": "Random House",
+          "language": "English",
+          "page_count": 334
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
+        "online_version_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501"
+      },
+      {
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "authors": ["James Clear"],
+        "isbn": "9780735211292",
+        "published_year": 2018,
+        "category": ["Self-Help", "Productivity", "Psychology"],
+        "availability": true,
+        "location": {
+          "shelf": "E5",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Avery",
+          "language": "English",
+          "page_count": 320
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91pR9wKJ3zL.jpg",
+        "online_version_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+      },
+      {
+        "title": "Becoming",
+        "authors": ["Michelle Obama"],
+        "isbn": "9781524763138",
+        "published_year": 2018,
+        "category": ["Memoir", "Biography", "Politics"],
+        "availability": true,
+        "location": {
+          "shelf": "F6",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Crown Publishing Group",
+          "language": "English",
+          "page_count": 448
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+        "online_version_url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136"
+      },
+      {
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "authors": ["Mark Manson"],
+        "isbn": "9780062457714",
+        "published_year": 2016,
+        "category": ["Self-Help", "Philosophy", "Lifestyle"],
+        "availability": true,
+        "location": {
+          "shelf": "G7",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "HarperOne",
+          "language": "English",
+          "page_count": 224
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+        "online_version_url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713"
+      },
+      {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "authors": ["Don Miguel Ruiz"],
+        "isbn": "9781878424310",
+        "published_year": 1997,
+        "category": ["Spirituality", "Self-Help", "Philosophy"],
+        "availability": true,
+        "location": {
+          "shelf": "H8",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Amber-Allen Publishing",
+          "language": "English",
+          "page_count": 160
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+        "online_version_url": "https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319"
+      },
+      {
+        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "authors": ["Charles Duhigg"],
+        "isbn": "9780812981605",
+        "published_year": 2012,
+        "category": ["Self-Help", "Business", "Psychology"],
+        "availability": true,
+        "location": {
+          "shelf": "I9",
+          "row": 5
+        },
+        "additional_info": {
+          "publisher": "Random House",
+          "language": "English",
+          "page_count": 371
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg",
+        "online_version_url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X"
+      },
+      {
+        "title": "Grit: The Power of Passion and Perseverance",
+        "authors": ["Angela Duckworth"],
+        "isbn": "9781501111105",
+        "published_year": 2016,
+        "category": ["Self-Help", "Psychology", "Motivation"],
+        "availability": true,
+        "location": {
+          "shelf": "K11",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Scribner",
+          "language": "English",
+          "page_count": 352
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+        "online_version_url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108"
+      },
+      {
+        "title": "The 5 AM Club: Own Your Morning, Elevate Your Life",
+        "authors": ["Robin Sharma"],
+        "isbn": "9781443456623",
+        "published_year": 2018,
+        "category": ["Self-Help", "Personal Development", "Motivation"],
+        "availability": true,
+        "location": {
+          "shelf": "M13",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "HarperCollins",
+          "language": "English",
+          "page_count": 336
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71eijJe2ntL.jpg",
+        "online_version_url": "https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624"
+      },
+      {
+        "title": "The Alchemist",
+        "authors": ["Paulo Coelho"],
+        "isbn": "9780061122415",
+        "published_year": 1988,
+        "category": ["Fiction", "Philosophy", "Adventure"],
+        "availability": true,
+        "location": {
+          "shelf": "N14",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "HarperOne",
+          "language": "English",
+          "page_count": 208
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/51Z0nLAfLmL.jpg",
+        "online_version_url": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416"
+      },
+      {
+        "title": "Man's Search for Meaning",
+        "authors": ["Viktor E. Frankl"],
+        "isbn": "9780807014271",
+        "published_year": 1946,
+        "category": ["Psychology", "Memoir", "Philosophy"],
+        "availability": true,
+        "location": {
+          "shelf": "P16",
+          "row": 6
+        },
+        "additional_info": {
+          "publisher": "Beacon Press",
+          "language": "English",
+          "page_count": 184
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+        "online_version_url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273"
+      },
+      {
+        "title": "JavaScript",
+        "authors": ["Armen Mamirjanyan"],
+        "isbn": "9789939038360",
+        "published_year": 2023,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "Armenian",
+          "page_count": 323
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "TYPES & GREMMAR JS",
+        "authors": ["Kyle Simson"],
+        "isbn": "9871491904190",
+        "published_year": 2015,
+        "category": [
+          "Math",
+          "Data Science",
+          "Linear Algebra",
+          "Statistics",
+          "typse &  grammar"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 220
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "This & Object Prototypes",
+        "authors": ["Kyle Simson"],
+        "isbn": "9781491904152",
+        "published_year": 2023,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 124
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "JavaScriptThe Good Parts",
+        "authors": ["Douglas Crockford"],
+        "isbn": "9870596517748",
+        "published_year": 2008,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 147
+        },
+        "cover_url": "https://www.google.am/books/edition/JavaScript_The_Good_Parts/PXa2bby0oQ0C?hl=en&gbpv=1&pg=PA1&printsec=frontcover",
+        "online_version_url": "https://www.google.am/books/edition/JavaScript_The_Good_Parts/PXa2bby0oQ0C?hl=en&gbpv=1&pg=PA1&printsec=frontcover"
+      },
+      {
+        "title": "JS: Async & Performance",
+        "authors": ["Kyle Simpson"],
+        "isbn": "9781491905210",
+        "published_year": 2015,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics", "Web"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 296
+        },
+        "cover_url": "https://www.google.am/books/edition/You_Don_t_Know_JS_Async_Performance/f2vIBgAAQBAJ?hl=en&gbpv=1&dq=ASYNC+7+PERFORMANCE+-+KYLE+SIMSON&printsec=frontcover",
+        "online_version_url": "https://www.google.am/books/edition/You_Don_t_Know_JS_Async_Performance/f2vIBgAAQBAJ?hl=en&gbpv=1&dq=ASYNC+7+PERFORMANCE+-+KYLE+SIMSON&printsec=frontcover"
+      },
+      {
+        "title": "Javascript(примерах)",
+        "authors": ["Allen Wyke"],
+        "isbn": "966-7393-57-7",
+        "published_year": 2000,
+        "category": [
+          "Math",
+          "Data Science",
+          "Linear Algebra",
+          "Statistics",
+          "programming"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "ussian Original language: English",
+          "page_count": 200
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "JavaScript для Интернета - профессион",
+        "authors": ["Дэн Ливингстон, Мика Браун, Дэн Баррет"],
+        "isbn": "5731501106",
+        "published_year": 2001,
+        "category": [
+          "Math",
+          "Data Science",
+          "Linear Algebra",
+          "Statistics",
+          "programming web"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "russian Original language: English",
+          "page_count": 240
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Изучаем программирование на C",
+        "authors": ["Дэвид Гриффитс"],
+        "isbn": "9785699602339",
+        "published_year": 2019,
+        "category": ["Programming", "C Programming"],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "Russian",
+          "page_count": 621
+        },
+        "cover_url": "https://example.com/thumbnails/programming-in-c.jpg",
+        "online_version_url": "https://example.com/ebooks/programming-in-c.pdf"
+      },
+      {
+        "title": "Учебник Английского языка",
+        "authors": ["Н.А. Бонк", "Г.А. Котий", "Н.А. Лукьянова"],
+        "isbn": "5833002400",
+        "published_year": 2006,
+        "category": ["Language Learning", "English"],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Н.А. Бонк",
+          "language": "Russian",
+          "page_count": 639
+        },
+        "cover_url": "https://example.com/thumbnails/english-language-textbook.jpg",
+        "online_version_url": "https://example.com/ebooks/english-language-textbook.pdf"
+      },
+      {
+        "title": "Самоучитель Visual C++",
+        "authors": ["Н. Секунов"],
+        "isbn": "582060055",
+        "published_year": 1999,
+        "category": ["Programming", "C++"],
+        "availability": true,
+        "location": {
+          "shelf": "A1",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Н. Секунов",
+          "language": "Russian",
+          "page_count": 941
+        },
+        "cover_url": "https://example.com/thumbnails/visual-cplusplus.jpg",
+        "online_version_url": "https://example.com/ebooks/visual-cplusplus.pdf"
+      },
+      {
+        "title": "C# 2010 Ускаренный курс для профессионалов",
+        "authors": ["Трей Нэш"],
+        "isbn": "978845916389",
+        "published_year": 2010,
+        "category": ["Programming", "C#"],
+        "availability": true,
+        "location": {
+          "shelf": "A4",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Трей Нэш",
+          "language": "Russian",
+          "page_count": 588
+        },
+        "cover_url": "https://example.com/thumbnails/csharp-2010-intensive-course.jpg",
+        "online_version_url": "https://example.com/ebooks/csharp-2010-intensive-course.pdf"
+      },
+      {
+        "title": "Visual C++",
+        "authors": ["Крис Паппас", "Унльям Мюррей"],
+        "isbn": "0078825105",
+        "published_year": 2000,
+        "category": ["Programming", "C++"],
+        "availability": true,
+        "location": {
+          "shelf": "A4",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Крис Паппас",
+          "language": "Russian",
+          "page_count": 621
+        },
+        "cover_url": "https://example.com/thumbnails/visual-cplusplus-2000.jpg",
+        "online_version_url": "https://example.com/ebooks/visual-cplusplus-2000.pdf"
+      },
+      {
+        "title": "Откладка в C++",
+        "authors": ["Крис Х. Паппас", "Уильям Х. Мюррей III"],
+        "isbn": "9785951803351",
+        "published_year": 2011,
+        "category": ["Programming", "C++", "Debugging"],
+        "availability": true,
+        "location": {
+          "shelf": "F1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Крис Х. Паппас",
+          "language": "Russian",
+          "page_count": 509
+        },
+        "cover_url": "https://example.com/thumbnails/debugging-in-cplusplus.jpg",
+        "online_version_url": "https://example.com/ebooks/debugging-in-cplusplus.pdf"
+      },
+      {
+        "title": "How Smart Machines Think",
+        "authors": ["Sean Gerrish"],
+        "isbn": "978-0-262-03840-9",
+        "published_year": 2018,
+        "category": [
+          "Artificial Intelligence (AI)",
+          "Cognitive Science",
+          "Machine Learning",
+          "Ethics and Philosophy of Technology"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "F",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "The MIT Press",
+          "language": "English",
+          "page_count": 312
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "How To: Absurd Scientific Advice for Common Real-World Problems",
+        "authors": ["Randall Munroe"],
+        "isbn": "978-0-525-53709-0",
+        "published_year": 2019,
+        "category": [
+          "Self-Help and Personal Development",
+          "General Reference",
+          "Education and How-To Guides",
+          "General Non-Fiction"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "F",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Riverhead Books",
+          "language": "English",
+          "page_count": 320
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Обезьяны в бизнесе. Как запускать проекты по лучшим стратегиям Кремниевой долины",
+        "authors": ["Гарсиа Мартинес Антонио"],
+        "isbn": "978-5-04-089528-1",
+        "published_year": 2020,
+        "category": [
+          "Business and Entrepreneurship",
+          "Technology and Innovation",
+          "Project Management",
+          "Business Strategy and Planning"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "F",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Бомбора",
+          "language": "Русский",
+          "page_count": 432
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Infinite Powers: How Calculus Reveals the Secrets of the Universe",
+        "authors": ["Steven Strogatz"],
+        "isbn": "978-1-328-87998-1",
+        "published_year": 2019,
+        "category": [
+          "Mathematics and Calculus",
+          "Science and Physics",
+          "Educational",
+          "Popular Science"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "F",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Mariner Books",
+          "language": "English",
+          "page_count": 384
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution",
+        "authors": ["Gregory Zuckerman "],
+        "isbn": "978-0735217980",
+        "published_year": 2019,
+        "category": [
+          "Biography",
+          "Finance and Investing",
+          "Business and Economics",
+          "Technology and Innovation"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "F",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Portfolio",
+          "language": "English",
+          "page_count": 384
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Delmar's Standard Textbook of Electricity, Sixth Edition",
+        "authors": ["Stephen L. Herman"],
+        "isbn": "978-1-285-85270-6",
+        "published_year": 2018,
+        "category": ["Electrical Engineering", "Textbook", "Technical Education"],
+        "availability": true,
+        "location": {
+          "shelf": "C",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Cengage Learning",
+          "language": "English",
+          "page_count": 987
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+    
+      {
+        "title": "The Design and Engineering of Curiosity",
+        "authors": ["Emily Lakdawalla"],
+        "isbn": "978-3-319-68146-7",
+        "published_year": 2018,
+        "category": ["Space Exploration", "Engineering", "Science"],
+        "availability": true,
+        "location": {
+          "shelf": "C",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Springer",
+          "language": "English",
+          "page_count": 393
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Structure and Interpretation of Computer Programs",
+        "authors": ["Harold Abelson", "Gerald Jay Sussman"],
+        "isbn": "978-0-262-01153-2",
+        "published_year": 2019,
+        "category": ["Computer Science", "Programming", "Textbook"],
+        "availability": true,
+        "location": {
+          "shelf": "C",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "The MIT Press",
+          "language": "English",
+          "page_count": 657
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+    
+      {
+        "title": "The Beginner's Guide to Engineering: Electrical Engineering",
+        "authors": ["Mary Ellen Latschar"],
+        "isbn": "978-1492986652",
+        "published_year": 2013,
+        "category": [
+          "Electrical Engineering",
+          "Introductory Engineering",
+          "Educational"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "C",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "Quantun scientific publishing",
+          "language": "English",
+          "page_count": 285
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Basic Antennas: Understanding Practical Antennas and Design",
+        "authors": ["Joel R. W1ZR"],
+        "isbn": "0-87259-999-x",
+        "published_year": 2008,
+        "category": ["Antennas", "Electrical Engineering", "Radio Frequency"],
+        "availability": true,
+        "location": {
+          "shelf": "C",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "The ARRL Antenna Book",
+          "language": "English",
+          "page_count": 200
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "authors": ["Eric Ries"],
+        "isbn": "9780307887894",
+        "published_year": 2011,
+        "category": ["Business", "Entrepreneurship", "Innovation"],
+        "availability": true,
+        "location": {
+          "shelf": "B2",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Crown Business",
+          "language": "English",
+          "page_count": 336
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
+        "online_version_url": "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898"
+      },
+      {
+        "title": "Educated: A Memoir",
+        "authors": ["Tara Westover"],
+        "isbn": "9780399590504",
+        "published_year": 2018,
+        "category": ["Memoir", "Education", "Self-Development"],
+        "availability": true,
+        "location": {
+          "shelf": "D4",
+          "row": 6
+        },
+        "additional_info": {
+          "publisher": "Random House",
+          "language": "English",
+          "page_count": 334
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
+        "online_version_url": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501"
+      },
+      {
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "authors": ["James Clear"],
+        "isbn": "9780735211292",
+        "published_year": 2018,
+        "category": ["Self-Help", "Productivity", "Psychology"],
+        "availability": true,
+        "location": {
+          "shelf": "E5",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Avery",
+          "language": "English",
+          "page_count": 320
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/91pR9wKJ3zL.jpg",
+        "online_version_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299"
+      },
+      {
+        "title": "Becoming",
+        "authors": ["Michelle Obama"],
+        "isbn": "9781524763138",
+        "published_year": 2018,
+        "category": ["Memoir", "Biography", "Politics"],
+        "availability": true,
+        "location": {
+          "shelf": "F6",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Crown Publishing Group",
+          "language": "English",
+          "page_count": 448
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/81h2gWPTYJL.jpg",
+        "online_version_url": "https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136"
+      },
+      {
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "authors": ["Mark Manson"],
+        "isbn": "9780062457714",
+        "published_year": 2016,
+        "category": ["Self-Help", "Philosophy", "Lifestyle"],
+        "availability": true,
+        "location": {
+          "shelf": "G7",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "HarperOne",
+          "language": "English",
+          "page_count": 224
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+        "online_version_url": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713"
+      },
+      {
+        "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "authors": ["Don Miguel Ruiz"],
+        "isbn": "9781878424310",
+        "published_year": 1997,
+        "category": ["Spirituality", "Self-Help", "Philosophy"],
+        "availability": true,
+        "location": {
+          "shelf": "H8",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Amber-Allen Publishing",
+          "language": "English",
+          "page_count": 160
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+        "online_version_url": "https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319"
+      },
+      {
+        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "authors": ["Charles Duhigg"],
+        "isbn": "9780812981605",
+        "published_year": 2012,
+        "category": ["Self-Help", "Business", "Psychology"],
+        "availability": true,
+        "location": {
+          "shelf": "I9",
+          "row": 5
+        },
+        "additional_info": {
+          "publisher": "Random House",
+          "language": "English",
+          "page_count": 371
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg",
+        "online_version_url": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X"
+      },
+      {
+        "title": "Grit: The Power of Passion and Perseverance",
+        "authors": ["Angela Duckworth"],
+        "isbn": "9781501111105",
+        "published_year": 2016,
+        "category": ["Self-Help", "Psychology", "Motivation"],
+        "availability": true,
+        "location": {
+          "shelf": "K11",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Scribner",
+          "language": "English",
+          "page_count": 352
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71EwoNQypZL.jpg",
+        "online_version_url": "https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108"
+      },
+      {
+        "title": "The 5 AM Club: Own Your Morning, Elevate Your Life",
+        "authors": ["Robin Sharma"],
+        "isbn": "9781443456623",
+        "published_year": 2018,
+        "category": ["Self-Help", "Personal Development", "Motivation"],
+        "availability": true,
+        "location": {
+          "shelf": "M13",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "HarperCollins",
+          "language": "English",
+          "page_count": 336
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71eijJe2ntL.jpg",
+        "online_version_url": "https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624"
+      },
+      {
+        "title": "The Alchemist",
+        "authors": ["Paulo Coelho"],
+        "isbn": "9780061122415",
+        "published_year": 1988,
+        "category": ["Fiction", "Philosophy", "Adventure"],
+        "availability": true,
+        "location": {
+          "shelf": "N14",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "HarperOne",
+          "language": "English",
+          "page_count": 208
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/51Z0nLAfLmL.jpg",
+        "online_version_url": "https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416"
+      },
+      {
+        "title": "Man's Search for Meaning",
+        "authors": ["Viktor E. Frankl"],
+        "isbn": "9780807014271",
+        "published_year": 1946,
+        "category": ["Psychology", "Memoir", "Philosophy"],
+        "availability": true,
+        "location": {
+          "shelf": "P16",
+          "row": 6
+        },
+        "additional_info": {
+          "publisher": "Beacon Press",
+          "language": "English",
+          "page_count": 184
+        },
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg",
+        "online_version_url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273"
+      },
+      {
+        "title": "JavaScript",
+        "authors": ["Armen Mamirjanyan"],
+        "isbn": "9789939038360",
+        "published_year": 2023,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "Armenian",
+          "page_count": 323
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "TYPES & GREMMAR JS",
+        "authors": ["Kyle Simson"],
+        "isbn": "9871491904190",
+        "published_year": 2015,
+        "category": [
+          "Math",
+          "Data Science",
+          "Linear Algebra",
+          "Statistics",
+          "typse &  grammar"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 220
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "This & Object Prototypes",
+        "authors": ["Kyle Simson"],
+        "isbn": "9781491904152",
+        "published_year": 2023,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 124
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "JavaScriptThe Good Parts",
+        "authors": ["Douglas Crockford"],
+        "isbn": "9870596517748",
+        "published_year": 2008,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 147
+        },
+        "cover_url": "https://www.google.am/books/edition/JavaScript_The_Good_Parts/PXa2bby0oQ0C?hl=en&gbpv=1&pg=PA1&printsec=frontcover",
+        "online_version_url": "https://www.google.am/books/edition/JavaScript_The_Good_Parts/PXa2bby0oQ0C?hl=en&gbpv=1&pg=PA1&printsec=frontcover"
+      },
+      {
+        "title": "JS: Async & Performance",
+        "authors": ["Kyle Simpson"],
+        "isbn": "9781491905210",
+        "published_year": 2015,
+        "category": ["Math", "Data Science", "Linear Algebra", "Statistics", "Web"],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "English",
+          "page_count": 296
+        },
+        "cover_url": "https://www.google.am/books/edition/You_Don_t_Know_JS_Async_Performance/f2vIBgAAQBAJ?hl=en&gbpv=1&dq=ASYNC+7+PERFORMANCE+-+KYLE+SIMSON&printsec=frontcover",
+        "online_version_url": "https://www.google.am/books/edition/You_Don_t_Know_JS_Async_Performance/f2vIBgAAQBAJ?hl=en&gbpv=1&dq=ASYNC+7+PERFORMANCE+-+KYLE+SIMSON&printsec=frontcover"
+      },
+      {
+        "title": "Javascript(примерах)",
+        "authors": ["Allen Wyke"],
+        "isbn": "966-7393-57-7",
+        "published_year": 2000,
+        "category": [
+          "Math",
+          "Data Science",
+          "Linear Algebra",
+          "Statistics",
+          "programming"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "ussian Original language: English",
+          "page_count": 200
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "JavaScript для Интернета - профессион",
+        "authors": ["Дэн Ливингстон, Мика Браун, Дэн Баррет"],
+        "isbn": "5731501106",
+        "published_year": 2001,
+        "category": [
+          "Math",
+          "Data Science",
+          "Linear Algebra",
+          "Statistics",
+          "programming web"
+        ],
+        "availability": true,
+        "location": {
+          "shelf": "B1",
+          "row": 0
+        },
+        "additional_info": {
+          "publisher": "O'REILLY",
+          "language": "russian Original language: English",
+          "page_count": 240
+        },
+        "cover_url": "https://example.com/thumbnails/java-complete-reference.jpg",
+        "online_version_url": "https://example.com/ebooks/java-complete-reference.pdf"
+      },
+      {
+        "title": "Data Science from Scratch",
+        "authors": ["Joel Grus"],
+        "isbn": "9781492041139",
+        "published_year": 2019,
+        "category": ["Data Science", "Programming"],
+        "availability": true,
+        "location": {
+          "shelf": "A7",
+          "row": 3
+        },
+        "additional_info": {
+          "publisher": "O'Reilly",
+          "language": "English",
+          "page_count": 330
+        },
+        "cover_url": "https://example.com/thumbnails/data-science-from-scratch.jpg",
+        "online_version_url": "https://example.com/ebooks/data-science-from-scratch.pdf"
+      },
+      {
+        "title": "Electronics Cookbook",
+        "authors": ["Simon Monk"],
+        "isbn": "9781491953402",
+        "published_year": 2017,
+        "category": ["Electronics", "Cookbook", "Technology"],
+        "availability": true,
+        "location": {
+          "shelf": "B3",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "O'Reilly",
+          "language": "English",
+          "page_count": 438
+        },
+        "cover_url": "https://example.com/thumbnails/electronics-cookbook.jpg",
+        "online_version_url": "https://example.com/ebooks/electronics-cookbook.pdf"
+      },
+      {
+        "title": "The Beginner's Guide to Mechanical Engineering",
+        "authors": ["Mark Huber"],
+        "isbn": "9781493506453",
+        "published_year": 2013,
+        "category": ["Mechanical Engineering", "Engineering", "Beginner's Guide"],
+        "availability": true,
+        "location": {
+          "shelf": "C2",
+          "row": 4
+        },
+        "additional_info": {
+          "publisher": "Not specified",
+          "language": "English",
+          "page_count": 328
+        },
+        "cover_url": "https://example.com/thumbnails/beginners-guide-mechanical-engineering.jpg",
+        "online_version_url": "https://example.com/ebooks/beginners-guide-mechanical-engineering.pdf"
+      },
+      {
+        "title": "The Beginner's Guide to Computer Engineering",
+        "authors": ["James Lance"],
+        "isbn": "9781492981541",
+        "published_year": 2013,
+        "category": ["Computer Engineering", "Engineering", "Beginner's Guide"],
+        "availability": true,
+        "location": {
+          "shelf": "D1",
+          "row": 2
+        },
+        "additional_info": {
+          "publisher": "Not specified",
+          "language": "English",
+          "page_count": 155
+        },
+        "cover_url": "https://example.com/thumbnails/beginners-guide-computer-engineering.jpg",
+        "online_version_url": "https://example.com/ebooks/beginners-guide-computer-engineering.pdf"
+      },
+      {
+        "title": "Mechanical Engineering for Makers",
+        "authors": ["Brian Bunnel"],
+        "isbn": "9781680455878",
+        "published_year": 2020,
+        "category": ["Mechanical Engineering", "Engineering", "Makers"],
+        "availability": true,
+        "location": {
+          "shelf": "E3",
+          "row": 1
+        },
+        "additional_info": {
+          "publisher": "Not specified",
+          "language": "English",
+          "page_count": 217
+        },
+        "cover_url": "https://example.com/thumbnails/mechanical-engineering-for-makers.jpg",
+        "online_version_url": "https://example.com/ebooks/mechanical-engineering-for-makers.pdf"
+      }
+]

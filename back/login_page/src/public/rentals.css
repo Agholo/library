@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: Picsart-Fonts, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Helvetica, Arabic, sans-serif;
+}
+
+header {
+    height: 110px;
+    width: 100%;
+    background-color: white;
+    box-shadow: inset 0px 20px 17px 3px rgba(34, 60, 80, 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header_conteiner{
+    height: 110px;
+    width: calc(100% - 34px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    height: 75px;
+    width: 75px;
+    margin: 17px;
+    cursor: pointer;
+}
+
+#pages {
+    height: 100%;
+    width: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#pages div{
+    border: 1px solid rgb(60, 60, 60);
+    height: 55px;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pages div::after{
+    content: "";
+    display: inline-block;
+    height: 6px;
+    width: 0;
+    background-image: linear-gradient(60.72deg, rgb(14, 0, 172) -11%, rgb(255, 52, 249) 86.67%);
+    position: absolute;
+    margin: 0;
+    left: -0.5px;
+    top: 50px;
+    border-radius: 3px;
+    transition: all 450ms;
+}
+
+#pages div:hover::after{
+    width: 102px;
+}
+
+.cont{
+    height: calc(100vh - 110px);
+    width: 100%;
+    background-image: linear-gradient(60.72deg, rgb(14, 0, 172) -11%, rgb(255, 52, 249) 86.67%);
+}
+
+.smth{
+    height: calc(20% - 17.75px);
+    width: 95%;
+    background-color: white;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    position: relative;
+    left: 50%;
+    top: 15px;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+}
+
+.notRentals {
+    color: white;
+    font-size: 72px;
+}
+
+.c{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cencal{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    border: 0;
+    transition: all 250ms ease-in;
+    border-radius: 10px;
+    position: absolute;
+    right: 15px;
+}
+
+#cencal:hover{
+    color: black;
+    border: 1px solid black;
+    background-color: white;
+}
+
+#about{
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+.info{
+    margin-left: 50px;
+}
+
+#logout:hover{
+    background-color: red;
+    color: white;
+}
+
+
+img{
+    height: auto;
+    width: 65px;
+    margin-left: 20px;
+}

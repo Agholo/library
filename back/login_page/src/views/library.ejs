@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>library</title>
+    <link rel="stylesheet" href="library.css">
+    <script src="timeControl.js"></script>
+    <script src="search.js"></script>
+</head>
+<body>
+    <header>
+        <div id="header_conteiner">
+            <img src="https://picsartacademy.am/assets/favicon/apple-touch-icon.png" alt="picsart academy Library" id="logo">
+            <div id="pages">
+                <div id="rentals">Rentals</div>
+                <a href="https://picsartacademy.am/" id="about"><div>About us</div></a>
+                <div id="logout">Log Out</div>
+            </div>
+        </div>
+    </header>
+    <div id="main">
+        <div id="filter">
+            <input type="text" placeholder="Search..." id="search">
+        </div>
+        <div id="books">
+            <% books.forEach((book) => { %>
+                <div class="book" bookData="<%= JSON.stringify(book) %>">
+                    <div class="esim"><a href="/book=<%= book.isbn %>"><img src="<%= book.cover_url %>" alt="<%= book.title %> Image"></a></div>
+                    <h2 class="bookTitle"><%= book.title %></h2>
+                    <h4>Authors: <%= book.authors %></h4>
+                    <p>Published Year: <%= book.published_year %></p>
+                    <div class="action">
+                        <% if(book.online_version_url){ %>
+                            <a href="<%= book.online_version_url %>"><button class="online" type="button">Read online</button></a>
+                        <% } else { %>
+                            <button class="online" type="button" disabled>Read online</button>
+                        <% } %>
+                        <% if(book.availability){ %>
+                            <button class="rental" type="button">Rental</button>
+                        <% } else { %>
+                            <button class="rental" type="button" disabled>Rental</button>
+                        <% } %>
+                    </div>
+                </div>
+            <% }); %>
+        </div>
+    </div>
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <div class="contenier">
+                <!-- put svg X -->
+                <span class="close" id="closePopupButton">X</span> 
+                <h3>Choose your book reading preference.</h3>
+                <input type="range" name="time" id="timebar" min="0" max="6" value="0">
+                <h1 id="duration">30 Minute</h1>
+                <button type="submit" id="rentalButton">Rental</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

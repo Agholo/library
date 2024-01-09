@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div id="header_conteiner">
+            <img src="https://picsartacademy.am/assets/favicon/apple-touch-icon.png" alt="picsart academy Library" id="logo">
+            <s>Library</s>
+        </div>
+    </header>
+    <div class="cont">
+        <div class="text">
+            <h1>Library Education</h1>
+            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, commodi eaque architecto, modi fuga magni sint cupiditate suscipit natus assumenda quos ratione? Rem quibusdam ipsa numquam debitis dicta saepe maiores?</h4>
+            <button id="signup">Sign Up</button>
+            <button id="login">Log In</button>
+        </div>
+        <div class="book"></div>
+    </div>
+    <script>
+        let login = document.getElementById("login")
+        login.addEventListener("click", () => {
+            location.href = "/login"
+        })
+        let signup = document.getElementById("signup")
+        signup.addEventListener("click", () => {
+            location.href = "/signup"
+        })
+        let logo = document.getElementById("logo")
+        logo.addEventListener("click", () => {
+            location.href = "/"
+        })
+    </script>
+</body>
+</html>

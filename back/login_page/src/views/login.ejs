@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PA Library</title>
+    <link rel="stylesheet" href="/login.css">
+</head>
+<body>
+    <header>
+        <div id="header_conteiner">
+            <img src="https://picsartacademy.am/assets/favicon/apple-touch-icon.png" alt="picsart academy Library" id="logo">
+            <s>Library</s>
+        </div>
+    </header>
+    <div id="main">
+        <div class="cont">
+            <form action="/login" method="post">
+                <div id="login_side">
+                    <h1>LOGIN</h1>
+                    <h5>Email</h5>
+                    <input type="email" id="login" placeholder="Your Email" name="email">
+                    <br>
+                    <h5>Password</h5>
+                    <input type="password" id="password" placeholder="Your password" name="password">
+                    <% if(error) { %>
+                        <p>email or password is wrong</p>
+                    <% } %>
+                    <div id="changes">
+                        <h5 href="/recover" id="recoverPassword">Forgot password</h5>
+                        <h5 href="/signup" id="signup">Sign up</h5>
+                    </div>
+                    <button id="submit_button" type="submit">Log In</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script>
+        let signup = document.getElementById("signup")
+        signup.addEventListener("click", () => {
+            location.href = "/signup"
+        })
+        let logo = document.getElementById("logo")
+        logo.addEventListener("click", () => {
+            location.href = "/"
+        })
+        let sub = document.getElementById(submit_button)
+        sub.addEventListener("click", () => {
+            location.href = "/"
+        })
+    </script>
+</body>
+</html>

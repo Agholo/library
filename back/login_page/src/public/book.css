@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: Picsart-Fonts, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Helvetica, Arabic, sans-serif;
+    scroll-behavior: smooth;
+}
+
+header {
+    height: 110px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px -15px 30px 5px rgba(34, 60, 80, 0.2) inset;
+}
+
+#header_conteiner{
+    height: 110px;
+    width: calc(100% - 34px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    height: 75px;
+    width: 75px;
+    margin: 17px;
+    cursor: pointer;
+}
+
+#pages {
+    height: 100%;
+    width: 440px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#pages div{
+    border: 1px solid rgb(60, 60, 60);
+    height: 55px;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pages div::after{
+    content: "";
+    display: inline-block;
+    height: 6px;
+    width: 0;
+    background-image: linear-gradient(60.72deg, rgb(14, 0, 172) -11%, rgb(255, 52, 249) 86.67%);
+    position: absolute;
+    margin: 0;
+    left: -0.5px;
+    top: 50px;
+    border-radius: 2px;
+    transition: all 450ms;
+}
+
+#pages div:hover::after{
+    width: 102px;
+}
+
+.main {
+    width: 100%;
+    height: calc(100vh - 110px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(60.72deg, rgb(14, 0, 172) -11%, rgb(255, 52, 249) 86.67%);
+}
+
+.cont {
+    height: 100%;
+    width: 94%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.image {
+    height: 85%;
+    width: 353.59px;
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+.book {
+    height: 85%;
+    width: 63%;
+    background-color: rgba(255, 255, 255, 0.65);
+    padding-left: 25px;
+    position: relative;
+}
+
+.book h1 {
+    text-align: center;
+}
+
+#about{
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    width: auto;
+    height: 100%;
+}
+
+.button_cont {
+    display: flex;
+    width: 535px;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+button {
+    height: 55px;
+    width: 165px;
+    border-radius: 25px;
+    border: 0;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: all 250ms ease;
+}
+
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.65);;
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(22px);
+  }
+  
+.popup {
+    display: none;
+    height: 350px;
+    width: 450px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 5px 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 2;
+}
+  
+.popup-content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.close {
+    position: absolute;
+    font-size: 20px;
+    cursor: pointer;
+    right: -18px;
+    padding: 11px;
+    transition: all 250ms ease;
+}  
+
+.close:hover{
+    background-color: red;
+}
+
+.x{
+    position: absolute;
+    height: 37px;
+    width: auto;
+    right: 10px;
+}
+
+.contenier{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#timebar{
+    height: 15px;
+    width: 80%;
+    outline: none;
+    border-radius: 15px;
+    -webkit-appearance: none;
+    overflow: hidden;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+#timebar::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #00fd0a;
+    border: 4px solid #333;
+    box-shadow: -407px 0 0 400px #00fd0a;
+}
+
+#rentalButton{
+    margin-top: 25px;
+    height: 70px;
+    width: 210px;
+    border-radius: 15px;
+    background-color: rgb(14, 0, 172);
+    color: rgb(255, 52, 249);
+    border: 0;
+    transition: all 300ms ease-in-out;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 0px 10px 20px 2px rgb(14, 0, 172, 0.5)
+}
+
+#rentalButton:hover{
+    color: rgb(14, 0, 172);
+    background-color: rgb(255, 52, 249);
+    box-shadow: 0px 10px 20px 2px rgb(255, 52, 249, 0.5)
+}
+
+.rental:disabled{
+    background-color: rgba(0, 0, 0, 0.2);
+    cursor: not-allowed;
+    color: white;
+}
+
+
+#logout:hover{
+    background-color: red;
+    color: white;
+}

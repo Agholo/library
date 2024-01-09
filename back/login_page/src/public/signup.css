@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: Picsart-Fonts, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Helvetica, Arabic, sans-serif;
+}
+s{
+    font-size: 72px;
+    background: linear-gradient(60.72deg, rgb(14, 0, 172) -11%, rgb(255, 52, 249) 86.67%) text;
+    user-select: none;
+    text-decoration: none;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 110px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 20px 17px 3px rgba(34, 60, 80, 0.15);
+    z-index: 1;
+}
+
+#header_conteiner{
+    height: 110px;
+    width: calc(50% + 100px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    height: 75px;
+    width: 75px;
+    margin: 17px;
+    cursor: pointer;
+}
+
+#main{
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(60.72deg, rgb(14, 0, 172) 0%, rgb(255, 52, 249) 86.67%);
+    height: calc(100vh - 110px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#login_side{
+    background-color: white;
+    height: 550px;
+    width: 250px;
+    border-radius:15px;
+}
+
+input {
+    height: 25px;
+    width: 180px;
+    border: 2px solid rgb(132, 132, 132);
+    margin-left: 25px;
+    font-size: 16px;
+    padding: 0 10px;
+    margin-top: 5px;
+    border-radius:5px;
+}
+#login_side h5 {
+    margin: 0;
+    margin-left: 25px;
+    margin-top: 10px;
+    color: black;
+}
+
+#login_side h1{
+    text-align: center;
+    color: black;
+    margin: 0;
+}
+
+input:focus {
+    outline: none;
+}
+
+#submit_button {
+    height: 50px;
+    width: 150px;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    background-image: linear-gradient(60.72deg, rgb(14, 0, 172) -11%, rgb(255, 52, 249) 86.67%);
+    position: relative;
+    left: 50px;
+    user-select: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px;
+    border: 0;
+    bottom: -50px;
+}
+
+#changes {
+    display: flex;
+    margin-top: 3px;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+}
+
+#changes h5 {
+    cursor: pointer;
+    transition: color 250ms;
+    user-select: none;
+}
+
+#changes h5:hover{
+    text-decoration: underline;
+    color: #7817CF;
+}
+
+#submit_button:hover{
+    font-size: 32px;
+}
+.cont {
+    background-color: white;
+    height: 550px;
+    width: 320px;
+    border-radius:15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    margin-left: 25px;
+    margin-top: 2px;
+    font-size: 12px;
+    color: red;
+}

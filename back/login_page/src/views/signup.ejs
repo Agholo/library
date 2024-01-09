@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign up</title>
+    <link rel="stylesheet" href="/signup.css">
+    <script src="signup.js"></script>
+</head>
+<body>
+    <header>
+        <div id="header_conteiner">
+            <img src="https://picsartacademy.am/assets/favicon/apple-touch-icon.png" alt="picsart academy Library" id="logo">
+            <s>Library</s>
+        </div>
+    </header>
+    <div id="main">
+        <div class="cont">
+            <form action="/signup" method="post" id="signupForm">
+                <div id="login_side">
+                    <h1>SIGN UP</h1>
+                    <h5>Name</h5>
+                    <input type="text" id="name" name="name">
+                    <% if(!nameMessage) { %>
+                        <p class="errorMessage">this field can't be empty</p>
+                    <% } else { %>
+                        <br>
+                    <% } %>
+                    <h5>Surname</h5>
+                    <input type="text" id="surname" name="surname">
+                    <% if(!surnameMessage) { %>
+                        <p class="errorMessage">this field can't be empty</p>
+                    <% } else { %>
+                        <br>
+                    <% } %>
+                    <h5>Email</h5>
+                    <input type="email" id="log" name="email">
+                    <% if(exist) { %>
+                        <p class="errorMessage">this email has already authenticated</p>
+                    <% } else if(!emailMessage) { %>
+                        <p class="errorMessage">email wrong type(ex. example@mail.ru or example@gmail.com)</p>
+                    <% } else { %>
+                        <br>
+                    <% } %>
+                    <h5>Phone number</h5>
+                    <input type="text" id="phone" name="phone">
+                    <% if(!phoneMessage) { %>
+                        <p class="errorMessage">Phone Number is wrong(ex. +37477777777 or 077777777)</p>
+                    <% } else { %>
+                        <br>
+                    <% } %>
+                    <h5>group</h5>
+                    <input type="number" id="group" max="7" min="3" placeholder="3" name="group">
+                    <br>
+                    <h5>Password</h5>
+                    <input type="password" id="password" name="password">
+                    <% if(!passMessage) { %>
+                        <p class="errorMessage">Wrong password type</p>
+                    <% } else { %>
+                        <br>
+                    <% } %>
+                    <button id="submit_button" type="submit">Sign Up</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script>
+        let login = document.getElementById("login")
+        login.addEventListener("click", () => {
+            location.href = "/login"
+        })
+        let logo = document.getElementById("logo")
+        logo.addEventListener("click", () => {
+            location.href = "/"
+        })
+    </script>
+</body>
+</html>
